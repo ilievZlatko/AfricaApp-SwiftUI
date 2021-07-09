@@ -39,6 +39,7 @@
 		CB581F1026988BBB008B6BB5 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB581F0F26988BBB008B6BB5 /* LocationModel.swift */; };
 		CB581F122698900C008B6BB5 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB581F112698900C008B6BB5 /* MapAnnotationView.swift */; };
 		CB581F142698950A008B6BB5 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB581F132698950A008B6BB5 /* MotionAnimationView.swift */; };
+		CB581F162698A330008B6BB5 /* AnimalGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB581F152698A330008B6BB5 /* AnimalGridItemView.swift */; };
 		CB7966AB26972D2C004DA8F7 /* HeadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7966AA26972D2C004DA8F7 /* HeadingView.swift */; };
 		CB7966AD26972E20004DA8F7 /* InsertGalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7966AC26972E20004DA8F7 /* InsertGalleryView.swift */; };
 		CB7966AF26974670004DA8F7 /* InsetFactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7966AE26974670004DA8F7 /* InsetFactView.swift */; };
@@ -84,6 +85,7 @@
 		CB581F0F26988BBB008B6BB5 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		CB581F112698900C008B6BB5 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 		CB581F132698950A008B6BB5 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
+		CB581F152698A330008B6BB5 /* AnimalGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGridItemView.swift; sourceTree = "<group>"; };
 		CB7966AA26972D2C004DA8F7 /* HeadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadingView.swift; sourceTree = "<group>"; };
 		CB7966AC26972E20004DA8F7 /* InsertGalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertGalleryView.swift; sourceTree = "<group>"; };
 		CB7966AE26974670004DA8F7 /* InsetFactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetFactView.swift; sourceTree = "<group>"; };
@@ -202,6 +204,7 @@
 				CB581F0A26988552008B6BB5 /* VideoPlayerView.swift */,
 				CB581F112698900C008B6BB5 /* MapAnnotationView.swift */,
 				CB581F132698950A008B6BB5 /* MotionAnimationView.swift */,
+				CB581F152698A330008B6BB5 /* AnimalGridItemView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -334,6 +337,7 @@
 				CB7966B526975220004DA8F7 /* VideoModel.swift in Sources */,
 				CB127E672694883D008AD2E4 /* GalleryView.swift in Sources */,
 				CB581F1026988BBB008B6BB5 /* LocationModel.swift in Sources */,
+				CB581F162698A330008B6BB5 /* AnimalGridItemView.swift in Sources */,
 				CB127E7226949026008AD2E4 /* CodableBundleExtension.swift in Sources */,
 				CB7966B726975288004DA8F7 /* VideoListItemView.swift in Sources */,
 				CB7966AD26972E20004DA8F7 /* InsertGalleryView.swift in Sources */,
